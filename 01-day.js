@@ -22,4 +22,4 @@ function sort(arr) {
 
 
 let arr = [0, 1, 2, 1, 0, 2, 1, 0];
-console.log(sortColors(arr)); 
+console.log(sort(arr)); 
