@@ -1,4 +1,4 @@
-function sortColors(arr) {
+function sort(arr) {
     let low = 0;              
     let mid = 0;              
     let high = arr.length - 1; 
